@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "85965874085",
+    "firebase_url": "https://evaluacion2-movilesiii-default-rtdb.firebaseio.com",
+    "project_id": "evaluacion2-movilesiii",
+    "storage_bucket": "evaluacion2-movilesiii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85965874085:android:d3e2b74ccd5fff78c0be4c",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EU5SvI1qtm2TyMbFj8DdV5a-D52yzwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

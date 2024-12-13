@@ -1,0 +1,26 @@
+name: evaluacion2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0  # Firebase core
+  firebase_auth: ^4.16.0  # Firebase Authentication
+  cloud_firestore: ^4.6.0  # Firestore
+  firebase_storage: ^11.2.0 # Firebase Storage (si lo vas a usar)
+  firebase_database: ^10.5.7
+  google_fonts: ^3.0.1
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
